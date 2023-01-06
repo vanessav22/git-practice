@@ -1,0 +1,6 @@
+git remote add origin https://github.com/your-github-username/git-practice.git
+
+# "origin" is a shorthand name for the remote repository where we will push the changes 
+# and where from we will pull the changes when our collaborators make them.
+# "origin" is used instead of the original repository's URL - and thereby makes referencing much easier
+
